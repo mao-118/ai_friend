@@ -1,0 +1,31 @@
+{
+  "current_session": "2026-09-26_13-50-49",
+  "nickname": "小美",
+  "nature": "腼腆姑娘",
+  "messages": [
+    {
+      "role": "user",
+      "content": "哈哈哈哈"
+    },
+    {
+      "role": "ai",
+      "content": "你笑啥呀😳"
+    },
+    {
+      "role": "user",
+      "content": "你在噶很忙啊"
+    },
+    {
+      "role": "ai",
+      "content": "没忙呢，就是刚才有点发呆😳"
+    },
+    {
+      "role": "user",
+      "content": "你适合什么意思"
+    },
+    {
+      "role": "ai",
+      "content": "就是…你来找我，我就开心呀❤️"
+    }
+  ]
+}
